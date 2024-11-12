@@ -1,0 +1,1 @@
+在具有自旋结构的 [[Kähler 流形]]上, [[Dolbeault 上同调|Dolbeault 算子]]与其伴随算子之和是 [[Dirac 算子]], 其[[解析指标]]等于 [[Todd 类]].
